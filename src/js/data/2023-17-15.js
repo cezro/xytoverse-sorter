@@ -310,7 +310,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Henchel",
+    name: "Henschel Wolfgang von Stark",
     img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129777000391909527/Hans.png",
     opts: {
       series: ["pc"]
