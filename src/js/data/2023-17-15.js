@@ -44,7 +44,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Caliculus",
+    name: "Calyxtol",
     img: "https://cdn.discordapp.com/attachments/1105885770276950166/1129752650548776970/Caliculus.png",
     opts: {
       series: ["gd", "x"]
@@ -72,7 +72,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Calamity",
+    name: "Calamitie",
     img: "https://cdn.discordapp.com/attachments/1105885770276950166/1129754137253396490/Calamity.png",
     opts: {
       series: ["gd", "x"]
@@ -100,7 +100,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Tristan",
+    name: "Tristania",
     img: "https://cdn.discordapp.com/attachments/1105885770276950166/1129754475985383536/Tristan.png",
     opts: {
       series: ["gd", "x"]
@@ -184,7 +184,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nono",
+    name: "Nono Miyumiya",
     img: "https://cdn.discordapp.com/attachments/1105885770276950166/1129756814980952094/Nono.png",
     opts: {
       series: ["gd", "x"]
@@ -202,6 +202,118 @@ dataSet[dataSetVersion].characterData = [
     img: "https://cdn.discordapp.com/attachments/1105885770276950166/1129756991301091478/Majestueuse.png",
     opts: {
       series: ["gd", "x"]
+    }
+  },
+  {
+    name: "Corz Acsorez",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129769534665019502/Corz.png",
+    opts: {
+      series: ["amb", "pc"]
+    }
+  },
+  {
+    name: "Phantasma",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129769535537434804/Phantasma.png",
+    opts: {
+      series: ["amb", "pc"]
+    }
+  },
+  {
+    name: "Daimon Dessereigh",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129769535067652096/Daimon.png",
+    opts: {
+      series: ["amb", "pc"]
+    }
+  },
+  {
+    name: "Charlotte",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772238497923142/Charlotte.png",
+    opts: {
+      series: ["pc"]
+    }
+  },
+  {
+    name: "Nakajima Ayami",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772238208512061/Ayami.png",
+    opts: {
+      series: ["pc"]
+    }
+  },
+  {
+    name: "Craener Cardinal Morrow",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772237902331934/Craener.png",
+    opts: {
+      series: ["pc"]
+    }
+  },
+  {
+    name: "Porter Cardinal Everheart",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772238770544730/Porter.png",
+    opts: {
+      series: ["pc"]
+    }
+  },
+  {
+    name: "Brand Emberwood",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772941584891914/Brand.png",
+    opts: {
+      series: ["pc"]
+    }
+  },
+  {
+    name: "Clyde Fetzig",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772941215813662/Clyde.png",
+    opts: {
+      series: ["pc"]
+    }
+  },
+  {
+    name: "Clyde Fetzig",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772941215813662/Clyde.png",
+    opts: {
+      series: ["pc"]
+    }
+  },
+  {
+    name: "Zatu",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129774230175748217/Zatu.png",
+    opts: {
+      series: ["pc", "gns"]
+    }
+  },
+  {
+    name: "Eliott Mosfell",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129774229915705424/Kim.png",
+    opts: {
+      series: ["pc", "gns"]
+    }
+  },
+  {
+    name: "Vlad Orpheus",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772941215813662/Clyde.png",
+    opts: {
+      series: ["pc", "gns"]
+    }
+  },
+  {
+    name: "Yua Ichika",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129776171463229502/Yua.jpeg",
+    opts: {
+      series: ["pc", "x", "cd"]
+    }
+  },
+  {
+    name: "Lea Estelle",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129776171811340370/Lea.png",
+    opts: {
+      series: ["pc", "x", "cd"]
+    }
+  },
+  {
+    name: "Desiree Walker",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129776172142702692/Desiree.png",
+    opts: {
+      series: ["pc", "x", "cd"]
     }
   },
 ];
