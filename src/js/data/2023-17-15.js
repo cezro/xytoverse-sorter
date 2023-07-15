@@ -204,5 +204,4 @@ dataSet[dataSetVersion].characterData = [
       series: ["gd", "x"]
     }
   },
-
 ];
