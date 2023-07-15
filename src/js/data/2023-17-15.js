@@ -316,4 +316,11 @@ dataSet[dataSetVersion].characterData = [
       series: ["pc", "x", "cd"]
     }
   },
+  {
+    name: "Henchel",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129777000391909527/Hans.png",
+    opts: {
+      series: ["pc"]
+    }
+  },
 ];
