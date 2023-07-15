@@ -268,13 +268,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Clyde Fetzig",
-    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772941215813662/Clyde.png",
-    opts: {
-      series: ["pc"]
-    }
-  },
-  {
     name: "Zatu",
     img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129774230175748217/Zatu.png",
     opts: {
@@ -290,7 +283,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Vlad Orpheus",
-    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129772941215813662/Clyde.png",
+    img: "https://cdn.discordapp.com/attachments/1129760254972940318/1129774229550792735/Pace.png",
     opts: {
       series: ["pc", "gns"]
     }
